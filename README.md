@@ -1,0 +1,2 @@
+# FavreSkiService
+service ski
